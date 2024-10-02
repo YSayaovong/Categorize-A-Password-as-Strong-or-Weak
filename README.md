@@ -6,6 +6,7 @@ This repository contains a collection of Python scripts aimed at showcasing a va
 
 - **Password Strength Checker (`passwordchecker.py`)**: Checks the strength of a password based on various criteria and categorizes it as "strong" or "weak".
 - **Password Verification Script (`pwcheck.py`)**: An additional script for validating password security.
+- **List Slicing (`list_slicing.py`)**: Demonstrates various ways to manipulate and extract data from lists using slicing techniques.
 
 ## How to Use
 
