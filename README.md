@@ -58,7 +58,7 @@ If a password meets all the criteria, it is categorized as strong; otherwise, it
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 You can copy and paste this code into your `README.md` file on GitHub.
